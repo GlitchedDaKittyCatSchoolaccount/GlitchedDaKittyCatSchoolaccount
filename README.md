@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Glitched Studios Student Help website <br>🤝 I’m looking for help with github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Student-Help-Website<br>🌱 I’m currently learning C#,HTML,CSS,JS,Python, C++🌱 I’m currently learning part 2: Cyber Scecurity <br>💬 Ask me about Current Project<br>⚡ Fun fact I am 16
+🔭 I’m currently working on: Glitched Studios Student Help website <br>🤝 I’m looking for help with github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Student-Help-Website<br>🌱 I’m currently learning C#,HTML,CSS,JS,Python, C++<br>🌱 I’m currently learning part 2: Cyber Scecurity <br>💬 Ask me about Current Project<br>⚡ Fun fact I am 16
 
 
 ## 🌐 Socials:
