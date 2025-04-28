@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1276059904548929549?showDisplayName=true&theme=dark)](https://discord.com/users/1276059904548929549)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1276059904548929549?theme=dark)](https://discord.com/users/1276059904548929549)
 # 💫 About Me:
 🔭 I’m currently working on: Glitched Studios Student Help website <br>🤝 I’m looking for help with C++, Game Development <br>🌱 I’m currently learning C#,HTML,CSS,JS,Python, C++<br>🌱 I’m currently learning part 2: Cyber Security <br>💬 Ask me about Current Project<br>⚡ Fun fact I am 16
 
